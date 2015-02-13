@@ -1,0 +1,7 @@
+{
+  "volo": {
+    "dependencies": {
+      "jquery-2.0.2": "local:/Users/kobayashishinji/workspace/firefoxos/libs/jquery-2.0.2.js"
+    }
+  }
+}
